@@ -57,6 +57,8 @@ news-reader-starter/
 │   ├── components/
 │   │   ├── ArticleCard.jsx
 │   │   ├── Layout.jsx
+│   │   ├── Login.css
+│   │   ├── Login.jsx
 │   │   └── Navigation.jsx
 │   ├── context/
 │   │   └── ArticlesContext.jsx
